@@ -1,0 +1,8 @@
+numbers[ ]=10
+numbers[ ]=20
+numbers[ ]=30
+numbers[ ]=100
+
+echo ${numbers[*]}
+
+
